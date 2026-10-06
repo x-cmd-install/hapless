@@ -119,4 +119,3 @@ total:
 ---
 
 ---
-{"id":273581354,"author":{"login":"bmwant","id":3602533,"node_id":"MDQ6VXNlcjM2MDI1MzM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOHLR09c4QToUq","tag_name":"v0.15.1","target_commitish":"main","name":"v0.15.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-12-31T11:24:32Z","updated_at":"2025-12-31T11:25:56Z","published_at":"2025-12-31T11:25:56Z","assets":[],"body":"## What's Changed\r\n* Fix typing-extensions version constraint for Python 3.11+ support by @p-linnane in https://github.com/bmwant/hapless/pull/70\r\n* Update dependencies by @bmwant in https://github.com/bmwant/hapless/pull/71\r\n\r\n## New Contributors\r\n* @p-linnane made their first contribution in https://github.com/bmwant/hapless/pull/70\r\n\r\n**Full Changelog**: https://github.com/bmwant/hapless/compare/v0.15.0...v0.15.1","mentions_count":2}
