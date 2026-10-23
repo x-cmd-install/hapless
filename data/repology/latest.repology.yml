@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: hapless
+  visiblename: hapless
+  version: 0.15.1
+  origversion: null
+  status: unique
+  summary: Run and manage background processes
+- repo: homebrew
+  srcname: hapless
+  visiblename: hapless
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Run and manage background processes
